@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=086637&size=20&center=true&vCenter=true&width=1000&lines=console.log("Hello+World"))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=086637&size=30&center=true&vCenter=true&width=1000&lines=console.log("Hello+World"))](https://git.io/typing-svg)
 <h4>⁕ Cursando Sistemas de Informação pelo <a target="blank" href="https://www.ifsudestemg.edu.br/manhuacu">IFSEMG - Campus Manhuaçu.</a></h4>
 <h4>⁕ Atualmente estudando Desenvolvimento Web Fullstack, e Desenvolvimento Desktop</h4>
 <br>
