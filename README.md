@@ -18,7 +18,7 @@
 
 <h3 style="color:#086637">Skills</h3>
 <div>
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-around;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
