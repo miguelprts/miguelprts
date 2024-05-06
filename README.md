@@ -1,10 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=086637&size=30&center=true&vCenter=true&width=1000&lines=console.log("Hello+World"))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFBF00&size=40&center=true&vCenter=true&width=1000&lines=console.log("Hello+World"))](https://git.io/typing-svg)
 <h4>⁕ Cursando Sistemas de Informação pelo <a target="blank" href="https://www.ifsudestemg.edu.br/manhuacu">IFSEMG - Campus Manhuaçu.</a></h4>
 <h4>⁕ Atualmente estudando Desenvolvimento Web Fullstack, e Desenvolvimento Desktop</h4>
 <br>
 
- <div>
+ <div align="center">
    <a href="https://www.linkedin.com/in/miguel-portes" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="35" alt="linkedin logo"/></a>
   <img width="25">
   <a href="mailto:miguelszportes@gmail.com" target="blank"><img src ="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_2x_r5.png" height="35" alt="gmail logo"/></a>
@@ -12,8 +12,8 @@
 <br>
   
   <div align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=miguelprts&show_icons=true&count_private=true&hide_border=true&title_color=086637&icon_color=086637&text_color=FFFFFF&bg_color=0d1117" width="auto" height="130" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelprts&layout=compact&hide_border=true&title_color=086637&text_color=00ad6f&bg_color=0d1117" width="auto" height="130" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=miguelprts&show_icons=true&count_private=true&hide_border=true&title_color=blue&icon_color=blue&text_color=FFFFFF&bg_color=0d1117" width="auto" height="130" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelprts&layout=compact&hide_border=true&title_color=blue&text_color=blue&bg_color=0d1117" width="auto" height="130" alt="languages graph"  />
   </div>
 <br>
 <hr>
@@ -35,7 +35,7 @@
 <p>Coming soon...</p>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=086637&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=120&section=footer"/>
 
 <!--<details><summary><h4>👁️ More about me</h4></summary>
 - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
