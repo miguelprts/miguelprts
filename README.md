@@ -5,9 +5,9 @@
 <br>
 
  <div>
-   <a href="www.linkedin.com/in/miguel-portes" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="35" alt="gmail logo"/></a>
+   <a href="https://www.linkedin.com/in/miguel-portes" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="35" alt="linkedin logo"/></a>
   <img width="25">
-  <a href="mailto:miguelszportes@gmail.com" target="blank"><img src = "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_2x_r5.png"  height="35" alt="gmail logo"/></a>
+  <a href="mailto:miguelszportes@gmail.com" target="blank"><img src ="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_2x_r5.png" height="35" alt="gmail logo"/></a>
 </div>
 <br>
   
