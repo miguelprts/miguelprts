@@ -4,16 +4,15 @@
 <h4>⁕ Atualmente estudando Desenvolvimento Web Fullstack, e Desenvolvimento Desktop</h4>
 <br>
 
- <div align="center">
-  <a href="https://www.instagram.com/miguelports" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="mailto:miguelszportes@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="www.linkedin.com/in/miguel-portes" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+ <div>
+   <a href="www.linkedin.com/in/miguel-portes" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="35" alt="gmail logo"/></a>
+  <img width="25">
+  <a href="mailto:miguelszportes@gmail.com" target="blank"><img src = "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_2x_r5.png"  height="35" alt="gmail logo"/></a>
 </div>
 <br>
   
   <div align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=miguelprts&show_icons=true&count_private=true&hide_border=true&title_color=086637&icon_color=086637&text_color=FFFFFF&bg_color=0d1117" width="auto" height="130" alt="stats graph"  />
-    <img src="./img/old_computer.png"  width="auto" height="120" alt="img">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelprts&layout=compact&hide_border=true&title_color=086637&text_color=00ad6f&bg_color=0d1117" width="auto" height="130" alt="languages graph"  />
   </div>
 <br>
