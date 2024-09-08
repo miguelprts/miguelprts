@@ -1,7 +1,8 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFBF00&size=30&center=true&vCenter=true&width=1000&lines=console.log("Hello+World"))](https://git.io/typing-svg)
-<h4>⁕ Cursando Sistemas de Informação pelo <a target="blank" href="https://www.ifsudestemg.edu.br/manhuacu">IFSEMG - Campus Manhuaçu.</a></h4>
-<br>
+<details><summary><h2>🖼️ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚</h2></summary>
+<p>💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Java and JavaScript.</p>
+<p>🎓 Enrolled in course Sistemas de Informação by <a target="blank" href="https://www.ifsudestemg.edu.br/manhuacu">IFSEMG - Campus Manhuaçu.</a> </p>
+<p>🪴 I love books, good and long conversations, listen a playlist in Spotify, coffee and night study sessions.</p>
+</details>
   
   <div align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=miguelprts&show_icons=true&count_private=true&hide_border=true&title_color=blue&icon_color=blue&text_color=FFFFFF&bg_color=0d1117" width="auto" height="130" alt="stats graph"  />
@@ -23,14 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   </div>
 <hr>
-
-  <h2>📂 - projects</h2>
+  <h2>📂 - 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</h2>
 <p>Coming soon...</p>
 <br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=120&section=footer"/>
-
-<!--<details><summary><h4>👁️ More about me</h4></summary>
-- 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details> -->
