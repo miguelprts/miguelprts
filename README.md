@@ -18,6 +18,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   </div>
 <hr>
-  <h2>📂 - 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</h2>
-<p>Coming soon...</p>
-<br>
